@@ -1,0 +1,14 @@
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.exe
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.deps.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.runtimeconfig.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.runtimeconfig.dev.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\bin\Debug\netcoreapp3.1\Odev1.pdb
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.csproj.AssemblyReference.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.AssemblyInfoInputs.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.AssemblyInfo.cs
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.csproj.CoreCompileInputs.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.pdb
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev1\Odev1\obj\Debug\netcoreapp3.1\Odev1.genruntimeconfig.cache
