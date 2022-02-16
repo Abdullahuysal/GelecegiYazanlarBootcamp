@@ -1,0 +1,16 @@
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.exe
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.deps.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.runtimeconfig.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.runtimeconfig.dev.json
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\ref\Odev2.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\bin\Debug\net5.0\Odev2.pdb
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.csproj.AssemblyReference.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.AssemblyInfoInputs.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.AssemblyInfo.cs
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.csproj.CoreCompileInputs.cache
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\ref\Odev2.dll
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.pdb
+D:\github\GelecegiYazanlarBootcamp\Odevler\Odev2\Odev2\obj\Debug\net5.0\Odev2.genruntimeconfig.cache
