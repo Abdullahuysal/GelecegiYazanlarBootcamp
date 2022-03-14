@@ -1,5 +1,4 @@
 # Entity FrameWork HomeWork
-## Kullanıcı Veritabanında bulunan Çalışanları ve Şirketleri görüntüleyebilmektedir ve bunlara yenilerini ekleyebilmektedir.
 ## Veritabanının diagram görüntüsü 
 ![Image](./Pictures/5.png)
 ## Tüm şirketleri görüntülemek için
