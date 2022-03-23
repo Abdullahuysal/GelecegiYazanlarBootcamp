@@ -1,0 +1,24 @@
+﻿@model MvcHomeWork.Models.User 
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+        {
+
+<div class="form">
+    <h1 class="maintext">Doğum günü Partisi Formu</h1>
+    @Html.ValidationSummary(false, null, new { @class = "myvalidation" })
+    @Html.TextBoxFor(x => x.FirstName, new { @class = "text_box", placeholder = "Adınız" })
+    @Html.TextBoxFor(x => x.SecondName, new { @class = "text_box", placeholder = "Soyadınız" })
+    @Html.TextBoxFor(x => x.Email, new { @class = "text_box", placeholder = "Mail Adresiniz" })
+    @Html.DropDownListFor(x => x.JoinStatus, new List<SelectListItem>()
+    {
+    new SelectListItem(){Text = "Evet", Value = "True"},
+    new SelectListItem(){Text = "Hayır", Value = "False"}
+    }, "Katılacak mısın ?", new { @class = "dropdown" })
+    <input type="submit" class="submit-button" value="Cevabı Gönder" />
+</div>
+       }

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Participants";
+    Layout = "~/Views/Shared/HomeLayout.cshtml";
+}
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Katılacak Olanlar</h1>
+    <ul class="list">
+        @foreach (var katılımcı in ViewBag.data)
+        {
+        <li class="list">@katılımcı.FirstName  @katılımcı.SecondName</li>
+           
+        }
+    </ul>
+</body>
+</html>

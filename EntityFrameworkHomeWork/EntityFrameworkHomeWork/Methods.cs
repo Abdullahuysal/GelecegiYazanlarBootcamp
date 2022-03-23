@@ -16,9 +16,13 @@ namespace EntityFrameworkHomeWork
             Console.WriteLine("----------------------------------");
             Console.WriteLine("Tüm Şirketleri Görmek için    =>  1");
             Console.WriteLine("Yeni şirket eklemek için      =>  2");
-            Console.WriteLine("Tüm Çalışanları Görmek için   =>  3");
-            Console.WriteLine("Yeni Çalışan Eklemek için     =>  4");
-            Console.WriteLine("Çıkış Yapmak için             =>  5  giriniz");
+            Console.WriteLine("Şirket bilg. Güncellemek için =>  3");
+            Console.WriteLine("Şirket bilgisi Silmek için    =>  4");
+            Console.WriteLine("Tüm Çalışanları Görmek için   =>  5");
+            Console.WriteLine("Yeni Çalışan Eklemek için     =>  6");
+            Console.WriteLine("Çalışan bilg. güncellemek için=>  7");
+            Console.WriteLine("Çalışan bilgisi silmek için   =>  8");
+            Console.WriteLine("Çıkış Yapmak için             =>  9  giriniz");
       
         }
         public void directToAction(int UserAnswer)
