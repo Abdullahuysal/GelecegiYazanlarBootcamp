@@ -1,0 +1,315 @@
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.exe
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.deps.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.runtimeconfig.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ref\bootShop.Web.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.Views.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.Views.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.AssemblyInfo.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorAssemblyInfo.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorAssemblyInfo.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\staticwebassets\bootShop.Web.StaticWebAssets.Manifest.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\staticwebassets\bootShop.Web.StaticWebAssets.xml
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\scopedcss\bundle\bootShop.Web.styles.css
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.TagHelpers.input.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.TagHelpers.output.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorCoreGenerate.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorTargetAssemblyInfo.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorTargetAssemblyInfo.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.Views.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\ref\bootShop.Web.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.genruntimeconfig.cache
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.CopyComplete
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\libman.json
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Entities.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Entities.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Business.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.DataAccess.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Business.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.DataAccess.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ProductCard.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\Web Applications\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\appsettings.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\libman.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.StaticWebAssets.xml
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.exe
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.deps.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.runtimeconfig.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.runtimeconfig.dev.json
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ref\bootShop.Web.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.Views.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Web.Views.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Dapper.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Humanizer.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Business.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.DataAccess.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Entities.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Business.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.DataAccess.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\bin\Debug\net5.0\bootShop.Entities.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.AssemblyReference.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.AssemblyInfoInputs.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.AssemblyInfo.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.CoreCompileInputs.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorAssemblyInfo.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorAssemblyInfo.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\scopedcss\bundle\bootShop.Web.styles.css
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\staticwebassets\bootShop.Web.StaticWebAssets.Manifest.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.TagHelpers.input.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.TagHelpers.output.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorCoreGenerate.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ProductCard.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorTargetAssemblyInfo.cache
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.RazorTargetAssemblyInfo.cs
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.Views.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.csproj.CopyComplete
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\ref\bootShop.Web.dll
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.pdb
+D:\github\GelecegiYazanlarBootcamp\DapperHomeWork\bootShop\bootShop.Web\obj\Debug\net5.0\bootShop.Web.genruntimeconfig.cache
